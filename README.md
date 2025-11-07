@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Igor
-<a href="https://t.me/crimson_goose" target="_blank" rel="noreferrer"> </a>
 </h1>
 
 **Используемые инструменты**: python, pandas, PostgreSQL, matplotlib, seaborn, scikit-learn, statsmodels, SHAP, phik, re, CatBoost.
