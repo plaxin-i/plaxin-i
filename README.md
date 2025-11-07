@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Igor
+<a href="https://t.me/crimson_goose" target="_blank" rel="noreferrer"> </a>
+</h1>
+
+**Используемые инструменты**: python, pandas, PostgreSQL, matplotlib, seaborn, scikit-learn, statsmodels, SHAP, phik, re, CatBoost.
+
+Прошел обучение на курсе от Яндекса Практикума "Специалист по Data Science".
+
 
 <!--
 **plaxin-i/plaxin-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
