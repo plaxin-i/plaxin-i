@@ -3,9 +3,9 @@
 
 **Используемые инструменты**: python, pandas, PostgreSQL, matplotlib, seaborn, scikit-learn, statsmodels, SHAP, phik, re, CatBoost.
 
-Прошел обучение на курсе от Яндекса Практикума "Специалист по Data Science".
+Прошел обучение на курсе от Яндекса Практикума "Специалист по Data Science".  
 
-
+|Название проекта/репозитория|Краткое описание проекта|Инструменты/технологии|
 <!--
 **plaxin-i/plaxin-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
