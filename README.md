@@ -10,7 +10,7 @@
 
 |Название проекта/репозитория|Краткое описание проекта|Инструменты/технологии|
 |-|-|-|
-|[Стоимость кваритир](https://github.com/plaxin-i/research_of_apartment_sale_ads)|Анализ параметров и их влияние на стоимость квартир в Санкт-Петербурге и области|pandas, numpy, matplotlib, seaborn|
+|[Стоимость квартир](https://github.com/plaxin-i/research_of_apartment_sale_ads)|Анализ параметров и их влияние на стоимость квартир в Санкт-Петербурге и области|pandas, numpy, matplotlib, seaborn|
 <!--
 **plaxin-i/plaxin-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
