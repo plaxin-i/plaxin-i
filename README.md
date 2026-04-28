@@ -3,7 +3,14 @@
 
 **Используемые инструменты**: python, pandas, PostgreSQL, matplotlib, seaborn, scikit-learn, statsmodels, SHAP, phik, re, CatBoost.
 
-Прошел обучение на курсе от Яндекса Практикума "Специалист по Data Science".  
+Прошел обучение на курсе от Яндекса Практикума "Специалист по Data Science". 
+
+<h2 align="center">Проекты мастерской
+</h2>
+
+|Название проекта/репозитория|Краткое описание проекта|Инструменты/технологии|
+|-|-|-|
+|[Telegram-бот и веб-чат с RAG](https://github.com/AI-agent-team-1/data-science-#telegram-бот-и-веб-чат-с-rag)|Чат-бот консультант в нефтегазовой сфере — технический ассистент, который опирается на локальную базу знаний (PDF/DOCX в docs/) и при необходимости на веб-поиск.| pyTelegramBotAPI, FastAPI, Uvicorn, LangGraph, tools, FAISS, OpenRouter
 
 <h2 align="center">Учебные проекты практикума
 </h2>
